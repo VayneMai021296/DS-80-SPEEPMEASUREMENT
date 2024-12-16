@@ -1,5 +1,6 @@
 # DS-80-SPEEPMEASUREMENT
-SHIP SPEED SIMULATOR APPLICATION using C# 9.0 and WPF (.NET Framework 4.7.2)
+* SHIP SPEED SIMULATOR APPLICATION using C# 9.0 and WPF (.NET Framework 4.7.2)
+* CONTACT via maitrungkien1296@gmail.com to receive source code 
 # How to run 
 1. Clone this repository
 ```git 
